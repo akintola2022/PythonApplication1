@@ -1,3 +1,17 @@
+#FINAL PROJECT SDEV140 (Time tracking and payroll system)
+
+#The project is to develop and implement a new time tracking and payroll system,
+#that will allow the staff to log in from anywhere on the network. 
+#Each department of the organization is to monitor their staff's time tracking. 
+#There will be an option for a manager to correct information once the employee has accepted it. 
+#There will also be security for logging in and a manager-level login.  
+#This time tracking information will feed into the payroll system.
+
+# TIME TRACKING
+
+# User Login detail (username and password)
+# Time punch (clock -in, clock-out)
+
 
 def check_time (test_time) :
     is_good = (len(test_time) == 4)
